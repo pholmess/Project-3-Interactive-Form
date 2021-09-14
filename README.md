@@ -1,15 +1,18 @@
-# Project-3-Interactive-Form
- 
-Thanks for your interest in our conference! Please be sure to complete all fields in order for your registration to be entered. When selecting your T-shirt, you must first choose a size and design, then the color. 
 
-The system will only allow you to choose 1 workshop-so don't worry! You can not mistakenly choose 2 at the same time/day. 
+<h2>Project 3: Interactive Form</h2>
 
-We prefer credit card payments, but also accept PayPal and BitCoin. 
+<h1>Welcome to Our FSJS Conference Registration page!</h1>
 
-When submitting, the system will detect any errors and ask you to fix them, such as an improperly formatted email address, or anything mentioned above. 
+<p>Please enter your name, a valid email address, the workshops you plan to attend and payment information.</p>
 
-We look forward to meeting you at the conference! 
+<p>The form will not allow you to register until all fields have been completed for your registration.</p>
 
-Sherri Holmes, Web Developer, Treehouse Tech Degree
+<p>If you enter any invalid information, the registration form will tell you exactly what you need to fix. </p>
+<p>For example, if you enter less than 13 numbers for credit card payment, the form will ask you to enter the correct number. </p>
+<p>The incorrect field will also highlight in red.</p>
 
-(This form does not save any information!)
+<p>Please let us know if you have any questions about registering!</p>
+
+<h2><p>Sherri Holmes</p></h2>
+
+(P.S. The data from this form is not saved, and is only for example purposes)
